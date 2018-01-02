@@ -1,0 +1,5 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\XmlLibrary\XmlLibrary\bin\Debug\XmlLibrary.dll
+c:\users\pareeka2\documents\visual studio 2015\Projects\XmlLibrary\XmlLibrary\bin\Debug\XmlLibrary.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\XmlLibrary\XmlLibrary\obj\Debug\XmlLibrary.csprojResolveAssemblyReference.cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\XmlLibrary\XmlLibrary\obj\Debug\XmlLibrary.dll
+c:\users\pareeka2\documents\visual studio 2015\Projects\XmlLibrary\XmlLibrary\obj\Debug\XmlLibrary.pdb
